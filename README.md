@@ -5,7 +5,7 @@ Want to get that NotCoin Airdrop with DappRadar? If so, you’re in the right pl
 The NotCoin Airdrop is becoming a popular method for cryptocurrency projects to distribute tokens to a wide audience. An airdrop involves distributing tokens or coins to countless wallet addresses for free or in exchange for doing simple tasks, such as taking part in a social media campaign or maintaining a certain cryptocurrency. These airdrops fulfill various purposes, including growing token distribution, incentivizing loyal community members, and generating understanding for the project. They permit projects to get to a vast audience and encourage involvement.
 
 <h2>How to claim NotCoin Airdrop? Comprehensive tutorial</h2>
-1. Open Dappradar - https://dropshunter.app/
+<p>1. Open Dappradar - https://dropshunter.app/</p>
 2. Connect and choose your wallet
 Essential: Make sure to manually examine every of your wallets to guarantee the obtaining of all eligible tokens.
 NotCoin airdrop guide
