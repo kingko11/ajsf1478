@@ -6,10 +6,10 @@ The NotCoin Airdrop is becoming a popular method for cryptocurrency projects to 
 
 <h2>How to claim NotCoin Airdrop? Comprehensive tutorial</h2>
 <p>1. Open Dappradar - https://dropshunter.app/</p>
-2. Connect and choose your wallet
-Essential: Make sure to manually examine every of your wallets to guarantee the obtaining of all eligible tokens.
-NotCoin airdrop guide
-4. After approve you will see this. NotCoin shoud appear in your wallet.
+<p>2. Connect and choose your wallet</p>
+<p>Essential: Make sure to manually examine every of your wallets to guarantee the obtaining of all eligible tokens.
+NotCoin airdrop guide</p>
+<p>4. After approve you will see this. NotCoin shoud appear in your wallet.</p>
 
 <h2>What is DappRadar?</h2>
 DappRadar is a platform that provides analytics and insights for decentralized applications (dApps) on multiple blockchains. It offers crucial data and analytics, enabling cryptocurrency supporters to locate, study, and track dApps across multiple blockchains. DappRadar plays a crucial role in the process of claiming NotCoin airdrops by providing users with information into airdrop options, allowing them to make educated decisions about participation.
